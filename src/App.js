@@ -13,7 +13,7 @@ function App() {
           minHeight: "100vh",
         }}
       >
-        <h1>Bookie Foodie Store</h1>
+        <h1>Cooking master</h1>
         <Routes>
           <Route exact path="/" element={<Navigate to="recipes" />} />
           <Route exact path="/recipes" element={<Recipe />} />
