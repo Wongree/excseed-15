@@ -1,3 +1,13 @@
+# First do
+```npm install```
+
+# Then
+```npm start```
+
+# The app is running on
+> localhost:3000
+
+
 # Assignment
 สร้างเว็บไซต์ค้นหาอาหารด้วย API ที่กำหนดให้ โดยให้ช่วยกันทำตามกลุ่ม Exceed น้องสามารถกดที่ ปุ่ม [Use this template](https://github.com/FRONTEND-EXCEED-18/food-assignment/generate) สีเขียวเพื่อสร้าง repository เป็นของตัวเอง โดยมีไฟล์เริ่มต้นทั้งหมดใน repository นี้ 
 ### Requirements
